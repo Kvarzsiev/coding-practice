@@ -1,0 +1,6 @@
+{
+  "name": "Typescriptingthehellout",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  }
+}
